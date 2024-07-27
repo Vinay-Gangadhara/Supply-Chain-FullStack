@@ -99,6 +99,8 @@ This application is designed to streamline company listings and enhance user exp
 - `GET /companies/{company_id}/nearest_location`: Find the nearest location of a company based on the user's current location.
 ### **Swaager UI Documentation:** http://localhost:8000/docs#/
 
+![Company Listing Page](./Screenshots/swaggerUI.png)
+
 
 ## Features Developed Detailed
 
